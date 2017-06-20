@@ -10,23 +10,25 @@
       <div class="tag expert">jQuery</div>
       <div class="tag expert">AJAX</div>
       <div class="tag expert">Vue</div>
+      <div class="tag familiar">typeScrpt</div>
       <div class="tag familiar">Bootstrap</div>
       <div class="tag familiar">C#</div>
     </div>
     <div class="tag-panel">
       <div class="tag expert">HTML5</div>
       <div class="tag expert">CSS3</div>
-      <div class="tag expert">MVC</div>
+      <div class="tag expert">Ionic</div>
       <div class="tag familiar">HighCharts</div>
     </div>
     <div class="tag-panel">
-      <div class="tag expert">微信小程序</div>
+      <div class="tag expert">WXML</div>
+      <div class="tag expert">MYSQL</div>
       <div class="tag expert">图像处理</div>
       <div class="tag familiar">网页设计</div>
     </div>
     <div class="tag-panel">
+      <div class="tag expert">Git</div>
       <div class="tag expert">PhotoShop</div>
-      <div class="tag expert">Webstorm</div>
       <div class="tag familiar">NPM</div>
       <div class="tag familiar">Webpack</div>
     </div>
